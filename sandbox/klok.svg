@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" style="background:blue">
+    <title>deklok</title>
+    <defs>
+        <rect id="deklok__hour" fill="lime" height="24" width="16" x="142" y="0"/>
+    </defs>
+    <rect x="0" y="0" fill="orange" height="300" width="300"/>
+    <circle cx="150" cy="150" r="150" fill="red"/>
+    <use href="#deklok__hour" transform="rotate(0)" transform-origin="center"/>
+    <use href="#deklok__hour" transform="rotate(30)" transform-origin="center"/>
+    <use href="#deklok__hour" transform="rotate(60)" transform-origin="center"/>
+    <use href="#deklok__hour" transform="rotate(90)" transform-origin="center"/>
+    <use href="#deklok__hour" transform="rotate(120)" transform-origin="center"/>
+    <use href="#deklok__hour" transform="rotate(150)" transform-origin="center"/>
+    <use href="#deklok__hour" transform="rotate(180)" transform-origin="center"/>
+    <use href="#deklok__hour" transform="rotate(210)" transform-origin="center"/>
+    <use href="#deklok__hour" transform="rotate(240)" transform-origin="center"/>
+    <use href="#deklok__hour" transform="rotate(270)" transform-origin="center"/>
+    <use href="#deklok__hour" transform="rotate(300)" transform-origin="center"/>
+    <use href="#deklok__hour" transform="rotate(330)" transform-origin="center"/>
+</svg>
